@@ -11,15 +11,15 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Display images on full page with all zoomin zoomout functions
+Display images on full page with all zoomin zoomout functions
 
 ## Features
 
-TODO: gallery slides functionality zoomin,zoomout,pinch zoomin,pinch zoomout,double tap zoomin-zoomout
+gallery slides functionality zoomin,zoomout,pinch zoomin,pinch zoomout,double tap zoomin-zoomout
 
 ## Getting started
 
-TODO: To start using this package, add gallery_zoom_slides dependency to your pubspec.yaml
+ To start using this package, add gallery_zoom_slides dependency to your pubspec.yaml
 
 ```dependencies:
            gallery_zoom_slides: "<latest_release>"
@@ -27,7 +27,6 @@ TODO: To start using this package, add gallery_zoom_slides dependency to your pu
 
 ## Usage
 
-TODO:
 
 ```List<String> arrayImages =
      ["https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg",
@@ -57,4 +56,4 @@ TODO:
 
 ## Additional information
 
-TODO: you can also set which index of image want to display initallly.
+you can also set which index of image want to display initallly.
